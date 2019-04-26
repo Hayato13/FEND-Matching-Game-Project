@@ -1,20 +1,17 @@
-# Memory Game Project
+# Matching Game Project
 
-## Table of Contents
+This is a matching game made for Udacity's Front-End Web Developer nanodegree program. 
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+## Getting Started
 
-## Instructions
+Download all files in the project and open the `index.html` in your browser of choice.
 
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+## Prerequisites
 
-To get started, open `js/app.js` and start building out the app's functionality
+This project requires any modern browser to view the `index.html` file.
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+## Installing
 
-## Contributing
+No additional installation is required.
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
 
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
